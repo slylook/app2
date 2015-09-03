@@ -25,6 +25,8 @@ more separate. Each of these packages can be used independently outside of
 Rails. You can read more about Action Pack in
 link:files/vendor/rails/actionpack/README.html.
 
+# Tutoriel Ruby on Rails : première application
+C'est la première application pour Ruby on Rails : Apprendre Rails par l'exemple
 
 == Getting Started
 
